@@ -13,6 +13,6 @@
   (synopsis "Cross-platform Reason / OCaml bindings for GLFW")
   (description "Cross-platform Reason / OCaml bindings for GLFW")
   (depends
-    (ocaml (>= <TODO: FILL VERSION HERE>))
-    (dune (>= 1.11))
- )
+    (ocaml (>= 4.07))
+    (dune (>= 1.11)))
+  )
