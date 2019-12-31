@@ -11,7 +11,7 @@
 (package
   (name reglfw)
   (synopsis "Cross-platform Reason / OCaml bindings for GLFW")
-  (description "")
+  (description "Cross-platform Reason / OCaml bindings for GLFW")
   (depends
     (ocaml (>= <TODO: FILL VERSION HERE>))
     (dune (>= 1.11))
